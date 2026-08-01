@@ -140,9 +140,6 @@ Reemplaza los enlaces y descripciones siguientes con tus repositorios públicos:
 3. Diseñar una solución clara, mantenible y medible.
 4. Implementar, documentar y acompañar su adopción.
 
-## Fuera del código
-
-Además de la tecnología, disfruto el entrenamiento de fuerza, el canto y la producción musical. Me interesa aprender constantemente y conectar disciplinas distintas para encontrar soluciones más creativas.
 
 ## Contacto
 
