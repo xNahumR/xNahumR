@@ -73,6 +73,20 @@ También desarrollo **FROTEKNO**, una iniciativa enfocada en ayudar a clínicas,
 
 ## Experiencia destacada
 
+### KPMG México
+
+**Consultor Cyber**
+
+- Consultoría en ciberseguridad, gestión de riesgos y cumplimiento.
+- Experiencia con ISO/IEC 27001, NOC, SOC 2 y el marco de ciberseguridad NIST.
+
+### LaPisa
+
+**Desarrollador web y móvil**
+
+- Desarrollo y mantenimiento de soluciones web y aplicaciones móviles.
+- Implementación de funcionalidades orientadas a necesidades operativas y de negocio.
+
 ### Centro de Diagnóstico Cuautla
 
 **Jefe de Soporte e Infraestructura**
